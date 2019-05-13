@@ -6,10 +6,20 @@
     <description>Recent content in Posts on My New Hugo Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 22:13:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 11:37:27 +0800</lastBuildDate>
     
 	<atom:link href="https://capyoung.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog3: For the 19th (job)</title>
+      <link>https://capyoung.github.io/post/blog3/</link>
+      <pubDate>Mon, 13 May 2019 11:37:27 +0800</pubDate>
+      
+      <guid>https://capyoung.github.io/post/blog3/</guid>
+      <description>阿里巴巴校招再次启动，应届、实习都行长期有效！
+https://www.nowcoder.com/discuss/189024</description>
+    </item>
     
     <item>
       <title>Blog2: Mr Ma(Ma Shibing) talks about Internet Winter</title>
