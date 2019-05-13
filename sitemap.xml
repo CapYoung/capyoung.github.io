@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://capyoung.github.io/post/blog2/</loc>
+    <lastmod>2019-05-12T22:13:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://capyoung.github.io/</loc>
+    <lastmod>2019-05-12T22:13:13+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://capyoung.github.io/post/</loc>
+    <lastmod>2019-05-12T22:13:13+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://capyoung.github.io/post/blog1/</loc>
+    <lastmod>2019-05-12T21:05:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://capyoung.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://capyoung.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

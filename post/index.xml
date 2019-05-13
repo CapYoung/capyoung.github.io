@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Blog Site</title>
+    <link>https://capyoung.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 22:13:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://capyoung.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog2: Mr Ma(Ma Shibing) talks about Internet Winter</title>
+      <link>https://capyoung.github.io/post/blog2/</link>
+      <pubDate>Sun, 12 May 2019 22:13:13 +0800</pubDate>
+      
+      <guid>https://capyoung.github.io/post/blog2/</guid>
+      <description>url: https://www.bilibili.com/read/cv2659354</description>
+    </item>
+    
+    <item>
+      <title>Blog1</title>
+      <link>https://capyoung.github.io/post/blog1/</link>
+      <pubDate>Sun, 12 May 2019 21:05:32 +0800</pubDate>
+      
+      <guid>https://capyoung.github.io/post/blog1/</guid>
+      <description>hello world!</description>
+    </item>
+    
+  </channel>
+</rss>
