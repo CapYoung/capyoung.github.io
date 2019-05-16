@@ -6,10 +6,19 @@
     <description>Recent content on My New Hugo Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 11:57:59 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2019 20:56:47 +0800</lastBuildDate>
     
 	<atom:link href="https://capyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog6: 宁波银行招19届，985,211同学可以投一下</title>
+      <link>https://capyoung.github.io/post/blog6/</link>
+      <pubDate>Thu, 16 May 2019 20:56:47 +0800</pubDate>
+      
+      <guid>https://capyoung.github.io/post/blog6/</guid>
+      <description>url: https://zhaopin.nbcb.com.cn/recruit/com.nbcb.recruit.auth.index.flow</description>
+    </item>
     
     <item>
       <title>Blog5: Spring资料</title>
